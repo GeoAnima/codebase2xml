@@ -1,0 +1,135 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux/Mac temporary files
+*~
+# vim swap files
+.swp
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.whl
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+
+# Static analysis
+.pyre/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# PyBuilder
+.target/
+
+# IPython / Jupyter Notebook
+.ipynb_checkpoints
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+.env.*
+
+# virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Other editors
+*.kate-swp
+
+# Backup files
+*~
+# Vim
+*.swp
+
+# Logs
+*.log
+
+# macOS resource forks
+._*
+
+# End of .gitignore

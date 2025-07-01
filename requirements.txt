@@ -1,0 +1,6 @@
+# codebase2xml requirements
+# No external dependencies required - uses Python standard library only
+# Python 3.8+ is required for:
+# - pathlib.Path advanced methods
+# - typing annotations
+# - xml.etree.ElementTree enhancements
